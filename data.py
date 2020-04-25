@@ -1,1 +1,2 @@
-print "just printing a data msg" 
+a=9
+b=8
